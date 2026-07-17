@@ -26,19 +26,19 @@ A Python-based tool that validates IPv4 and IPv6 addresses and displays useful n
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/ip-address-validator.git
+git clone https://github.com/amitthecoder/IP-Address-Validator
 ```
 
 2. Navigate to the project directory:
 
 ```bash
-cd ip-address-validator
+cd IP-Address-Validator
 ```
 
 3. Run the script:
 
 ```bash
-python ip_validator.py
+python IPAddressValidator.py
 ```
 
 ## 📷 Example Output
